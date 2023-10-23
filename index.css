@@ -503,6 +503,10 @@
         width: 391px;
     }
 
+    .fresher{
+        display:none;
+    }
+
     .nav {
         display: inline-flex;
         width: 95%;
